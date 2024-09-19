@@ -1,0 +1,251 @@
+{
+    "draw": 10,
+    "recordsTotal": 237,
+    "recordsFiltered": 237,
+    "data": [
+       
+        {
+            "":"",
+            "a":"",
+            "id": 245,
+            "iso": "ZM",
+            "nicename": "ZAMBIA",
+            "name": "Zambia",
+            "iso3": "ZMB",
+            "numcode": 894,
+            "code": 260,
+            "arab_name": "\u0632\u0627\u0645\u0628\u064a\u0627",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "zm.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/245\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"245\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/245\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 243,
+            "iso": "YE",
+            "nicename": "YEMEN",
+            "name": "Yemen",
+            "iso3": "YEM",
+            "numcode": 887,
+            "code": 967,
+            "arab_name": "\u0627\u0644\u064a\u0645\u0646",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "ye.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/243\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"243\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/243\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 242,
+            "iso": "EH",
+            "nicename": "WESTERN SAHARA",
+            "name": "Western Sahara",
+            "iso3": "ESH",
+            "numcode": 732,
+            "code": 212,
+            "arab_name": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "eh.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/242\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"242\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/242\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 241,
+            "iso": "WF",
+            "nicename": "WALLIS AND FUTUNA",
+            "name": "Wallis and Futuna",
+            "iso3": "WLF",
+            "numcode": 876,
+            "code": 681,
+            "arab_name": "\u0648\u0627\u0644\u064a\u0633 \u0648\u0641\u0648\u062a\u0648\u0646\u0627",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "wf.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/241\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"241\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/241\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 240,
+            "iso": "VI",
+            "nicename": "VIRGIN ISLANDS, U.S.",
+            "name": "Virgin Islands, U.s.",
+            "iso3": "VIR",
+            "numcode": 850,
+            "code": 1340,
+            "arab_name": "\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 ",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "vi.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/240\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"240\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/240\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 239,
+            "iso": "VG",
+            "nicename": "VIRGIN ISLANDS, BRITISH",
+            "name": "Virgin Islands, British",
+            "iso3": "VGB",
+            "numcode": 92,
+            "code": 1284,
+            "arab_name": "\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "vg.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/239\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"239\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/239\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 238,
+            "iso": "VN",
+            "nicename": "VIET NAM",
+            "name": "Viet Nam",
+            "iso3": "VNM",
+            "numcode": 704,
+            "code": 84,
+            "arab_name": "\u0641\u064a\u062a\u0646\u0627\u0645",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "vn.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/238\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"238\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/238\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 237,
+            "iso": "VE",
+            "nicename": "VENEZUELA",
+            "name": "Venezuela",
+            "iso3": "VEN",
+            "numcode": 862,
+            "code": 58,
+            "arab_name": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "ve.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/237\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"237\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/237\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 235,
+            "iso": "VU",
+            "nicename": "VANUATU",
+            "name": "Vanuatu",
+            "iso3": "VUT",
+            "numcode": 548,
+            "code": 678,
+            "arab_name": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "vu.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/235\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"235\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/235\">Delete<\/a><\/div><\/div>"
+        },
+        {
+            "":"",
+            "a":"",
+            "id": 235,
+            "iso": "VU",
+            "nicename": "VANUATU",
+            "name": "Vanuatu",
+            "iso3": "VUT",
+            "numcode": 548,
+            "code": 678,
+            "arab_name": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648",
+            "sort": 10,
+            "usa_sort": 10,
+            "flag": "vu.png",
+            "status": "<i class=\"fas fa-circle fa-sm mx-2 text-secondary\"><\/i>Inactive",
+            "is_active": 0,
+            "created_at": "2022-11-08 05:44:35",
+            "action": "<div class=\"font-sans-serif btn-reveal-trigger position-static\">\n                <button class=\"btn btn-sm dropdown-toggle dropdown-caret-none transition-none btn-reveal fs--2\"\n                type=\"button\" data-bs-toggle=\"dropdown\" data-boundary=\"window\" aria-haspopup=\"true\" aria-expanded=\"false\" data-bs-reference=\"parent\">\n                    <i class=\"fa-solid fa-ellipsis-vertical fa-xl\"><\/i>\n                <\/button>\n                <div class=\"dropdown-menu dropdown-menu-end py-2\"><a href=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/235\/edit\" class=\"dropdown-item\">Edit<\/a><div class=\"dropdown-divider\"><\/div><a href=\"#\" class=\"dropdown-item text-danger delete-this-country\" data-id=\"235\" data-url=\"http:\/\/127.0.0.1:8000\/potential_customer\/countries\/235\">Delete<\/a><\/div><\/div>"
+        }
+    ],
+    "disableOrdering": false,
+    "queries": [
+        {
+            "query": "select count(*) as aggregate from countries where countries.deleted_at is null",
+            "bindings": [],
+            "time": 0.6
+        },
+        {
+            "query": "select * from countries where countries.deleted_at is null order by name desc limit 10 offset 0",
+            "bindings": [],
+            "time": 1.27
+        }
+    ],
+    "input": {
+        "draw": "7",
+        "columns": [
+            {
+                "data": ""
+            },
+            {
+                "data": "id"
+            },
+            {
+                "data": "name"
+            },
+            {
+                "data": "status"
+            },
+            {
+                "data": "created_at"
+            },
+            {
+                "data": "updated_at"
+            },
+            {
+                "data": "action",
+                "searchable": "false",
+                "orderable": "false"
+            }
+        ],
+        "order": [
+            {
+                "column": "2",
+                "dir": "desc"
+            }
+        ],
+        "start": "0",
+        "length": "10",
+        "search": {
+            "value": null
+        },
+        "_": "1710325208950"
+    }
+}
